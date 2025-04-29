@@ -75,6 +75,8 @@
     "glob": "7.2.3",
     "history": "5.3.0",
     "jest": "29.7.0",
+    "typescript": "^5.8.3",
+    "ts-checker-rspack-plugin": "^1.1.1",
     "react-test-renderer": "^18.3.1"
   }
 }
